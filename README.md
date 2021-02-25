@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CSC413
-=======
 # csc413-SecondGame
 
 ## Student Name : Kevin Fung
@@ -16,4 +13,3 @@
 3) The Launcher class is the class that contain the main function, so run from there.
 
 Note: Make sure to set your working directory to csc413-secondgame-kefung2\LazarusGame to ensure that the resource file run normally 
->>>>>>> Lazarus/master
